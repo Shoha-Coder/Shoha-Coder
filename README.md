@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Frontend Developer from Uzbekistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoha-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shoha-coder" /> </p>
 <p align="left"> <img src="https://www.aalpha.net/wp-content/uploads/2021/02/reactjs-framework.gif" /> </p>
-<p align="left"> <a href="https://twitter.com/shoha_coder" target="blank"><img src="https://img.shields.io/twitter/follow/shoha_coder?logo=twitter&style=for-the-badge" alt="shoha_coder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shoha_coder" target="blank"><img src="https://img.shields.io/twitter/follow/shoha_coder?logo=twitter&style=for-the-badge" alt="shoha_coder" target="_blank" /></a> </p>
 
 - 🔭 I’m currently studying on **IT Academy**
 
