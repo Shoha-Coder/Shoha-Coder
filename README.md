@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shohruhxon</h1>
 <h3 align="center">I'm a Frontend Developer from Uzbekistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoha-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shoha-coder" /> </p>
-<p align="left"> <img src="http://localhost:5173/src/assets/react.svg" /> </p>
+<p align="left"> <img src="https://react.dev/" /> </p>
 <p align="left"> <a href="https://twitter.com/shoha_coder" target="blank"><img src="https://img.shields.io/twitter/follow/shoha_coder?logo=twitter&style=for-the-badge" alt="shoha_coder" target="_blank" /></a> </p>
 
 - 🔭 I’m currently studying on **IT Academy**
