@@ -89,7 +89,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" align="center" />
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" align="center" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" align="left" /></div>
 
 <br/>  
 
