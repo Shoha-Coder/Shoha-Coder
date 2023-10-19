@@ -86,10 +86,10 @@
 </div>  
   
 <img src="https://komarev.com/ghpvc/?username=Shoha-Coder&&style=flat-square" align="center" />
-
+<div style="display:flex">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" align="center" />
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" align="left" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" align="center" /></div>
 
 <br/>  
 
