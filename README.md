@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shohruhxon</h1>
 
-<img src="https://github.com/thomasync/thomasync/raw/main/assets/header_dark.svg" align="center" />
-
 <h3 align="center">A Front-end developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoha-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shoha-coder" /> </p>
