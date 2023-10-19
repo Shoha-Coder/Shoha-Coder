@@ -87,9 +87,9 @@
   
 <img src="https://komarev.com/ghpvc/?username=Shoha-Coder&&style=flat-square" align="center" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoha-Coder&hide_border=true&layout=compact" align="left" />  
+![shoha-coder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shoha-Coder&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">![shoha-coder's Stats](https://github-readme-stats.vercel.app/api?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)</div>  
 
 <br/>  
 
