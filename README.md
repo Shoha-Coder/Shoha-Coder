@@ -89,8 +89,9 @@
 
 ![shoha-coder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![shoha-coder's Stats](https://github-readme-stats.vercel.app/api?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)</div>  
+![shoha-coder's Stats](https://github-readme-stats.vercel.app/api?username=shoha-coder&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+![shoha-coder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoha-coder&theme=tokyonight&hide_border=false)
 <br/>  
 
 
