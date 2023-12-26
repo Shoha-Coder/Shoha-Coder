@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [http://shoha-coder.netlify.app](http://shoha-coder.netlify.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** **next.js**
 
 - 📫 How to reach me **shohacoder@gmail.com**
 
