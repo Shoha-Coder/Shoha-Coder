@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shoha_coder" target="blank"><img src="https://img.shields.io/twitter/follow/shoha_coder?logo=twitter&style=for-the-badge" alt="shoha_coder" /></a> </p>
 
-- 🌱 I’m currently learning **Node js and PostgreSQL**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [http://shoha-coder.netlify.app](http://shoha-coder.netlify.app)
 
