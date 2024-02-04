@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [http://shoha-coder.netlify.app](http://shoha-coder.netlify.app)
+- 👨‍💻 All of my projects are available at [http://shoha-coder.uz](https://shoha-coder.uz)
 
 - 💬 Ask me about **React and Next.js**
 
